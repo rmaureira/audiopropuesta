@@ -14,7 +14,10 @@ En la carpeta [scripts/](scripts/) está el script en Python que usé para conve
 Los audios por capítulo, en formato podcast se pueden encontrar en:
 
 [RSS.com](https://rss.com/podcasts/audiopropuesta/)
+
 [Spotify](https://open.spotify.com/show/3DzXhzLwD8AT1jvxzBvcm8)
+
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/la-nueva-constitución-en-audio/id1633122737)
 
 ## TO DO
 - ~~Agregar archivos de audio por capítulo completo~~
