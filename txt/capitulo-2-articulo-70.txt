@@ -1,0 +1,10 @@
+Artículo 70..
+1. Toda persona tiene derecho a la privacidad personal, familiar y comunitaria.
+Ninguna persona ni autoridad podrá afectar, restringir o impedir su ejercicio,
+salvo en los casos y formas que determine la ley.
+2. Los recintos privados son inviolables. La entrada, el registro o el allanamiento
+solo se podrán realizar con orden judicial previa, salvo las hipótesis de
+flagrancia que establezca la ley.
+3. Toda documentación y comunicación privada es inviolable, incluyendo sus
+metadatos. La interceptación, la captura, la apertura, el registro o la revisión
+solo se podrá realizar con orden judicial previa.
