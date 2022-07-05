@@ -10,10 +10,16 @@ En la carpeta [mp3/](mp3/) encontrarán todos los artículos en formato MP3 v2 (
 
 En la carpeta [scripts/](scripts/) está el script en Python que usé para convertir los textos en audio, usando la API [Text to Speech](https://cloud.google.com/text-to-speech) de Google Cloud
 
+## Podcast
+Los audios por capítulo, en formato podcast se pueden encontrar en:
+
+[RSS.com](https://rss.com/podcasts/audiopropuesta/)
+[Spotify](https://open.spotify.com/show/3DzXhzLwD8AT1jvxzBvcm8)
+
 ## TO DO
 - Agregar archivos de audio por capítulo completo
 - Agregar duración de cada audio
-- Publicar los audios como podcast (?)
+- ~~Publicar los audios como podcast (?)~~
 
 ### Comentarios
 Si encuentran algún error en los archivos, por favor, reportarlo como issue en este repositorio.
@@ -27,3 +33,5 @@ Si quieren recrear los audios en calidad distinta, u otra API, lo mejor es usar 
 El script está sacado de los ejemplos del cliente de Python para las API de Google Cloud, los cuales están [acá](https://github.com/googleapis/python-texttospeech/tree/main/samples). Es mejor usar eso como ejemplo, y no mi versión.
 
 La motivación para hacer esto, es por un lado la accesibilidad, el PDF publicado no es muy accesible, en especial para quienes deban usar lectores de pantalla, como las personas de visión reducida, o carentes de ella. Pero por otro lado, porque personalmente, tener el texto en formato audio me podría dar la oportunidad de escucharlo durante traslados en transporte.
+
+¿Se puede hacer mejor? Sí, siempre, pero esto es solo una forma de ofrecer una solución rápida.

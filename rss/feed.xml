@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[La Nueva Constitución en Audio]]></title>
+    <link>https://rss.com/podcasts/audiopropuesta</link>
+    <atom:link href="https://media.rss.com/audiopropuesta/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://hub.livewire.io/"/>
+    <description><![CDATA[Conversión del texto de la propuesta de Nueva Constitución. La conversión fue hecha de forma automática a partir del texto oficial publicado en https://chileconvencion.cl]]></description>
+    <generator>RSS.com v1.6.1</generator>
+    <lastBuildDate>Tue, 05 Jul 2022 16:50:50 GMT</lastBuildDate>
+    <language>es-mx</language>
+    <copyright><![CDATA[rmaureira 2022]]></copyright>
+    <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+    <image>
+      <url>https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg</url>
+      <title>La Nueva Constitución en Audio</title>
+      <link>https://rss.com/podcasts/audiopropuesta</link>
+    </image>
+    <itunes:summary><![CDATA[Conversión del texto de la propuesta de Nueva Constitución. La conversión fue hecha de forma automática a partir del texto oficial publicado en https://chileconvencion.cl]]></itunes:summary>
+    <podcast:locked owner="rmaureira@gmail.com">Yes</podcast:locked>
+    <podcast:funding/>
+    <itunes:author>Robinson Maureira</itunes:author>
+    <itunes:owner>
+      <itunes:name>Robinson Maureira</itunes:name>
+      <itunes:email>rmaureira@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Government"/>
+    <itunes:category text="News">
+      <itunes:category text="Politics"/>
+    </itunes:category>
+    <item>
+      <title><![CDATA[Disposiciones Transitorias  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Disposiciones Transitorias  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileDisposiciones Transitorias(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Disposiciones Transitorias</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543497</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040738_269813c7bee5f5aca1247da05ded016a.mp3" length="11318733" type="audio/mpeg"/>
+      <guid isPermaLink="false">f2bf9fd5-526e-4d76-b88f-2b7887988b9d</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>2830</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo XI - Reforma y Reemplazo de la Constitución  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo XI - Reforma y Reemplazo de la Constitución  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo XI - Reforma y Reemplazo de la Constitución(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo XI - Reforma y Reemplazo de la Constitución</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543473</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040718_076c0d07b4e42221101f6eb00c0f398c.mp3" length="1294125" type="audio/mpeg"/>
+      <guid isPermaLink="false">1855bd16-0ea5-489f-bf18-a325ea611bc5</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>324</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo X - Órganos Autónomos Constitucionales  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo X - Órganos Autónomos Constitucionales  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo X - Órganos Autónomos Constitucionales(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo X - Órganos Autónomos Constitucionales</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543470</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040726_b876a7dcdbd2cc0b75a4b774c2270e6e.mp3" length="6313869" type="audio/mpeg"/>
+      <guid isPermaLink="false">11e925b0-b418-42cf-ae17-30d4a13159f9</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1579</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo IX - Sistemas de Justicia  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo IX - Sistemas de Justicia  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo IX - Sistemas de Justicia(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo IX - Sistemas de Justicia</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543467</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040716_f022e5fe69b41abf337c7336015a2d42.mp3" length="5750541" type="audio/mpeg"/>
+      <guid isPermaLink="false">6718ae43-c943-4575-a3aa-3a29cc55ef31</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1438</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo VIII - Poder Ejecutivo  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo VIII - Poder Ejecutivo  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo VIII - Poder Ejecutivo(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo VIII - Poder Ejecutivo</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543460</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040736_0c366f4a0c7fcd3ac3c00a7cdacdfb72.mp3" length="6821229" type="audio/mpeg"/>
+      <guid isPermaLink="false">f2fb8b64-4474-4cc5-a0f7-aac8df6796c1</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1706</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:21:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo VII - Poder Legislativo   (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo VII - Poder Legislativo   (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo VII - Poder Legislativo (Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo VII - Poder Legislativo </p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543453</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040758_072ade261d7682ee4f350a350e807e83.mp3" length="7983117" type="audio/mpeg"/>
+      <guid isPermaLink="false">91c21f5a-4456-41ad-a28c-eeb24f1c71de</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1996</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:19:09 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo VI - Estado Regional y Organización Territorial  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo VI - Estado Regional y Organización Territorial  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo VI - Estado Regional y Organización Territorial(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo VI - Estado Regional y Organización Territorial</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543448</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040740_87bef1cd823e6667abf98adf82062106.mp3" length="9868365" type="audio/mpeg"/>
+      <guid isPermaLink="false">c5932598-b1bc-4c77-844a-42d977a4ce32</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>2468</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo V - Buen Gobierno y Función Pública  (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo V - Buen Gobierno y Función Pública  (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo V - Buen Gobierno y Función Pública(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo V - Buen Gobierno y Función Pública</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543443</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040739_870421221173fb7fc556a999a8c2efd5.mp3" length="3675885" type="audio/mpeg"/>
+      <guid isPermaLink="false">544f36fe-6f0b-445a-b97b-7e264933d571</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>919</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo IV - Participación Democrática (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo IV - Participación Democrática (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo IV - Participación Democrática(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo IV - Participación Democrática</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543432</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030732_80f8c62de8e9f11e45a6b23b22c6c061.mp3" length="2556909" type="audio/mpeg"/>
+      <guid isPermaLink="false">3d62d70d-7375-4c9f-8be7-b007c41ff7d3</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>640</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo III - Naturaleza y Medioambiente (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo III - Naturaleza y Medioambiente (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo III - Naturaleza y Medioambiente(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo III - Naturaleza y Medioambiente</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543423</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030720_9d2db37f4ec20494cbb9a32c07efd7e1.mp3" length="3017517" type="audio/mpeg"/>
+      <guid isPermaLink="false">0e2d1c51-84a6-4f2c-b5ab-06d224d27b21</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>755</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:47:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo II - Derechos Fundamentales y Garantías (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo II - Derechos Fundamentales y Garantías (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo II - Derechos Fundamentales y Garantías(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo II - Derechos Fundamentales y Garantías</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543419</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030711_83fa375d2af2c6123042acd40b6f8cb0.mp3" length="18265581" type="audio/mpeg"/>
+      <guid isPermaLink="false">955f1887-7bb4-49bc-a5d2-7fac049299e5</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>4567</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo I - Principios y Disposiciones Generales (Voz 2)]]></title>
+      <itunes:title><![CDATA[Capítulo I - Principios y Disposiciones Generales (Voz 2)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo I - Principios y Disposiciones Generales(Voz 2)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo I - Principios y Disposiciones Generales</p><p>(Voz 2)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543409</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030710_280d25a50f91957e15282ad8fd144e4e.mp3" length="1963437" type="audio/mpeg"/>
+      <guid isPermaLink="false">a04d6665-d4b3-48db-8181-cc776089389c</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>491</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Disposiciones Transitorias  (Voz 1)]]></title>
+      <itunes:title><![CDATA[Disposiciones Transitorias  (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileDisposiciones Transitorias(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Disposiciones Transitorias</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543495</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040737_f853c4c38f3af275955adaa479067678.mp3" length="11547597" type="audio/mpeg"/>
+      <guid isPermaLink="false">e0cecd25-2c2a-4b3f-a6d8-a5e24aa5b268</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>2887</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:49:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo XI - Reforma y Reemplazo de la Constitución  (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo XI - Reforma y Reemplazo de la Constitución  (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo XI - Reforma y Reemplazo de la Constitución(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo XI - Reforma y Reemplazo de la Constitución</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543472</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040749_b735d9afd9dbdab0b68e021d06fc9fbe.mp3" length="1320045" type="audio/mpeg"/>
+      <guid isPermaLink="false">d5763a3f-cad3-4553-80ff-698fa92e3525</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>330</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:29:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo X - Órganos Autónomos Constitucionales  (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo X - Órganos Autónomos Constitucionales  (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo X - Órganos Autónomos Constitucionales(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo X - Órganos Autónomos Constitucionales</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543468</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040726_df4b416b03a4a580ba50696f37ada9ab.mp3" length="6417261" type="audio/mpeg"/>
+      <guid isPermaLink="false">c4b35289-1e75-4364-954a-b56268af4011</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1605</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo IX - Sistemas de Justicia  (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo IX - Sistemas de Justicia  (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo IX - Sistemas de Justicia(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo IX - Sistemas de Justicia</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543465</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040721_df5ab3f07f75cacdef1158f15d2ac90c.mp3" length="5857485" type="audio/mpeg"/>
+      <guid isPermaLink="false">14c33ca7-657d-47d8-8d53-ba67a7da937d</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1465</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo VIII - Poder Ejecutivo  (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo VIII - Poder Ejecutivo  (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo VIII - Poder Ejecutivo(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo VIII - Poder Ejecutivo</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543456</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040711_15cbb32d335bf74d4cc6547b6d4526b6.mp3" length="6958125" type="audio/mpeg"/>
+      <guid isPermaLink="false">07ce0477-da00-4bdc-b65b-0fc0395407e3</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo VII - Poder Legislativo (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo VII - Poder Legislativo (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo VII - Poder Legislativo (Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo VII - Poder Legislativo </p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543452</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040720_cb3734097bdea9c295811442ab3e8ca5.mp3" length="8126925" type="audio/mpeg"/>
+      <guid isPermaLink="false">fc1eb716-671e-4c6c-ae6d-2531414be322</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>2032</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo VI - Estado Regional y Organización Territorial (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo VI - Estado Regional y Organización Territorial (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo VI - Estado Regional y Organización Territorial(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo VI - Estado Regional y Organización Territorial</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543447</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040758_6b4df6aee53521e9607826bb4e25c34f.mp3" length="10055085" type="audio/mpeg"/>
+      <guid isPermaLink="false">6fe17f6a-9d72-4f23-ad1e-67b84b879308</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>2514</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo V - Buen Gobierno y Función Pública (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo V - Buen Gobierno y Función Pública (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo V - Buen Gobierno y Función Pública(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo V - Buen Gobierno y Función Pública</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543442</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_040754_2aba9ddd35441fb970eb289ba5061dd3.mp3" length="3760173" type="audio/mpeg"/>
+      <guid isPermaLink="false">bd833ca8-579d-4ad7-a902-fc5ab5b9532e</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>940</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 16:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo IV - Participación Democrática (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo IV - Participación Democrática (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo IV - Participación Democrática(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo IV - Participación Democrática</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543431</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030748_17be4c65303ec0322da901a4bfbe846f.mp3" length="2610093" type="audio/mpeg"/>
+      <guid isPermaLink="false">f7d218aa-3979-4aee-8aa2-90fe470592d9</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>653</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo III - Naturaleza y Medioambiente (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo III - Naturaleza y Medioambiente (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo III - Naturaleza y Medioambiente(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo III - Naturaleza y Medioambiente</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543422</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030725_ffa75764d822d1a5a11d35f9640323b8.mp3" length="3079821" type="audio/mpeg"/>
+      <guid isPermaLink="false">e92a9c62-2b55-4a82-b1d8-eea8d30f1694</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>770</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo II - Derechos Fundamentales y Garantías (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo II - Derechos Fundamentales y Garantías (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo II - Derechos Fundamentales y Garantías (Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo II - Derechos Fundamentales y Garantías </p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543416</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030700_a2a63e6ec18f94c73e483d0ee2b2b4be.mp3" length="18702189" type="audio/mpeg"/>
+      <guid isPermaLink="false">1a64d17d-93d6-4d05-984e-68641d47aa89</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>4676</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:43:13 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Capítulo I - Principios y Disposiciones Generales (Voz 1)]]></title>
+      <itunes:title><![CDATA[Capítulo I - Principios y Disposiciones Generales (Voz 1)]]></itunes:title>
+      <itunes:summary><![CDATA[Propuesta de Nueva Constitución Política de la República de ChileCapítulo I - Principios y Disposiciones Generales(Voz 1)]]></itunes:summary>
+      <description><![CDATA[<p>Propuesta de Nueva Constitución Política de la República de Chile</p><p>Capítulo I - Principios y Disposiciones Generales</p><p>(Voz 1)</p>]]></description>
+      <link>https://rss.com/podcasts/audiopropuesta/543388</link>
+      <enclosure url="https://media.rss.com/audiopropuesta/20220705_030746_5a1a742ee2c32cb34f16f09817b0d03d.mp3" length="2016141" type="audio/mpeg"/>
+      <guid isPermaLink="false">981688ec-6f3f-41f0-aa32-7b3e3be60d0f</guid>
+      <itunes:image href="https://media.rss.com/audiopropuesta/20220705_030706_7123058e7591c901740f07ee013b5ed2.jpg"/>
+      <itunes:duration>504</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 Jul 2022 15:06:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
