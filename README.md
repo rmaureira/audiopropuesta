@@ -17,7 +17,7 @@ Los audios por capítulo, en formato podcast se pueden encontrar en:
 [Spotify](https://open.spotify.com/show/3DzXhzLwD8AT1jvxzBvcm8)
 
 ## TO DO
-- Agregar archivos de audio por capítulo completo
+- ~~Agregar archivos de audio por capítulo completo~~
 - Agregar duración de cada audio
 - ~~Publicar los audios como podcast (?)~~
 
