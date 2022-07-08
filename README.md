@@ -17,9 +17,14 @@ Los audios por capítulo, en formato podcast se pueden encontrar en:
 
 [YouTube](https://youtube.com/playlist?list=PLyrPZgPKw_kSId4GWmw-PUpYXFNUsvlqk)
 [RSS.com](https://rss.com/podcasts/audiopropuesta/)
+
 [Spotify](https://open.spotify.com/show/3DzXhzLwD8AT1jvxzBvcm8)
 [Apple](https://podcasts.apple.com/us/podcast/la-nueva-constituci%c3%b3n-en-audio/id1633122737)
 [Amazon](https://music.amazon.com/podcasts/6c0a5687-1061-4c99-99d5-48d59fc8bb36)
+
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/la-nueva-constitución-en-audio/id1633122737)
+
+[Amazon Music](https://music.amazon.com/podcasts/6c0a5687-1061-4c99-99d5-48d59fc8bb36/la-nueva-constituci%C3%B3n-en-audio)
 
 ## TO DO
 - ~~Agregar archivos de audio por capítulo completo~~
