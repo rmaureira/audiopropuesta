@@ -8,23 +8,18 @@ En la carpeta [txt/](txt/) podrán encontrar el texto completo de la propuesta, 
 
 En la carpeta [mp3/](mp3/) encontrarán todos los artículos en formato MP3 v2 (32 kbps, 24 kHZ, mono) 
 
-En la carpeta [scripts/](scripts/) está el script en Python que usé para convertir los textos en audio, usando la API [Text to Speech](https://cloud.google.com/text-to-speech) de Google Cloud
+En la carpeta [scripts/](scripts/) está el script en Python que usé para convertir los textos en audio, usando la API [Text to Speech](https://cloud.google.com/text-to-speech) de Google Cloud.
 
-En la carpeta [mkv/](mkv/) están los MKV que estoy subiendo a YouTube
+En la carpeta [mkv/](mkv/) están los MKV que estoy subiendo a YouTube.
 
 ## Podcast
 Los audios por capítulo, en formato podcast se pueden encontrar en:
 
 [YouTube](https://youtube.com/playlist?list=PLyrPZgPKw_kSId4GWmw-PUpYXFNUsvlqk)
 [RSS.com](https://rss.com/podcasts/audiopropuesta/)
-
 [Spotify](https://open.spotify.com/show/3DzXhzLwD8AT1jvxzBvcm8)
 [Apple](https://podcasts.apple.com/us/podcast/la-nueva-constituci%c3%b3n-en-audio/id1633122737)
 [Amazon](https://music.amazon.com/podcasts/6c0a5687-1061-4c99-99d5-48d59fc8bb36)
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/la-nueva-constitución-en-audio/id1633122737)
-
-[Amazon Music](https://music.amazon.com/podcasts/6c0a5687-1061-4c99-99d5-48d59fc8bb36/la-nueva-constituci%C3%B3n-en-audio)
 
 ## TO DO
 - ~~Agregar archivos de audio por capítulo completo~~
