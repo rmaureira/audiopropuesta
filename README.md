@@ -1,4 +1,4 @@
-# Propuesta de Nueva Constitución en Audio
+# Propuesta de Nueva Constitución de la República de Chile en Audio
 
 En este repositorio podrán encontrar la Propuesta de Nueva Constitución, preparada por la Convención Constitucional, y publicada en su sitio [web](https://chileconvencion.cl), en formatos adicionales (Audio, Texto plano)
 
