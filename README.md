@@ -17,6 +17,8 @@ Los audios por capítulo, en formato podcast se pueden encontrar en:
 
 [YouTube](https://youtube.com/playlist?list=PLyrPZgPKw_kSId4GWmw-PUpYXFNUsvlqk)
 
+[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9tZWRpYS5yc3MuY29tL2F1ZGlvcHJvcHVlc3RhL2ZlZWQueG1s)
+
 [RSS.com](https://rss.com/podcasts/audiopropuesta/)
 
 [Spotify](https://open.spotify.com/show/3DzXhzLwD8AT1jvxzBvcm8)
