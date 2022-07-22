@@ -2,6 +2,8 @@
 
 En este repositorio podrán encontrar la Propuesta de Nueva Constitución de la República de Chile, preparada por la Convención Constitucional, y publicada en su sitio [web](https://chileconvencion.cl), en formatos adicionales (Audio, Texto plano)
 
+[Instrucciones de ejecución](INSTALL.md)
+
 ## Archivos
 
 En la carpeta [txt/](txt/) podrán encontrar el texto completo de la propuesta, así como todos los artículos en formato TXT.
